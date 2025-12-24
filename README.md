@@ -1,6 +1,6 @@
 # Robot– Encoder Odometry
 
-This lab focuses on measuring and verifying robot motion using wheel encoder counts
+This project focuses on measuring and verifying robot motion using wheel encoder counts
 and distance feedback while commanding the robot to drive straight.
 
 ---
